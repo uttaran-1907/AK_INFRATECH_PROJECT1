@@ -35,7 +35,7 @@ const calculate = (btn_val) => {
             output += btn_val
         }
     }
-    display.value = output || "0 ";
+    display.value = output || "0";
 };
 buttons.forEach((button) => {
     button.addEventListener("click", (e) => calculate(e.target.dataset.value));
