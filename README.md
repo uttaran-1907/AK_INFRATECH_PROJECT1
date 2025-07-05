@@ -1,9 +1,9 @@
 # AK_INFRATECH_PROJECT1
 
 **🔢 Web Calculator**
-> A simple and responsive web calculator built using HTML, CSS, and JavaScript. It performs basic arithmetic operations and mimics the functionality of a typical mobile or desktop calculator.
+> **A simple and responsive web calculator built using HTML, CSS, and JavaScript. It performs basic arithmetic operations and mimics the functionality of a typical mobile or desktop calculator.**
 
-*🚀 Live Demo*
+ *🚀 Live Demo*
 
 [click here to try the calculator](https://uttaran-1907.github.io/AK_INFRATECH_PROJECT1/)
 
