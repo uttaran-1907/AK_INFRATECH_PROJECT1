@@ -10,7 +10,7 @@ A simple and responsive web calculator built using HTML, CSS, and JavaScript. It
 
 ## 📸 *Screenshot*
 
-[calculator.png](calculator.png)
+[calculator Screenshot](calculator.png)
 
 ## ✨*Features*
 
@@ -34,7 +34,7 @@ A simple and responsive web calculator built using HTML, CSS, and JavaScript. It
 
 - Display: Used for input and output.
 - Buttons: Grid of calculator buttons.
-- 
+  
 ## 🎛️ *Tech Stack*
 
 - 🌐 HTML5
@@ -44,7 +44,8 @@ A simple and responsive web calculator built using HTML, CSS, and JavaScript. It
 ## 🛠 *Setup Instructions*
 
 1. Clone the repository
->git clone https://github.com/uttaran-1907/AK_INFRATECH_PROJECT1.git cd AK_INFRATECH_PROJECT1
+>git clone https://github.com/uttaran-1907/AK_INFRATECH_PROJECT1.git cd
+<br>AK_INFRATECH_PROJECT1
 
 2. Open *index.html* in your browser. No server setup is needed.
   
@@ -52,7 +53,7 @@ A simple and responsive web calculator built using HTML, CSS, and JavaScript. It
 
 ## 🚀 *Hosting*
 **Hosted using :**
-- [Github pages](https://uttaran-1907.github.io/AK_INFRATECH_PROJECT1/)
+- [Github Pages](https://uttaran-1907.github.io/AK_INFRATECH_PROJECT1/)
   
 - [Vercel](https://web-calculator-orcin.vercel.app/)
 
@@ -60,13 +61,13 @@ A simple and responsive web calculator built using HTML, CSS, and JavaScript. It
 
 - Works across all modern browsers: *Chrome*, *Edge*, *Firefox*, *Safari*, *Brave,* and more.
 - Uses eval() for expression evaluation – avoid entering untrusted inputs.
-- 
+  
 ## 📄 *License*
 
 This project is open source and free to use.
 
 ## 🙋‍♂ Author
 
-Made with **Uttaran Midya** For internship/project under **AK Infratech**
+Made by **Uttaran Midya** For internship/project under **AK Infratech**
 
 ---
