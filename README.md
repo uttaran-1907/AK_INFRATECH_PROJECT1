@@ -67,6 +67,6 @@ This project is open source and free to use.
 
 ## 🙋‍♂ Author
 
-Made by **Uttaran Midya** For internship/project under **AK Infratech**
+Made by [**Uttaran Midya**](https://github.com/uttaran-1907) For internship/project under **AK Infratech**
 
 ---
