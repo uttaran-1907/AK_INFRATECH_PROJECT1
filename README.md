@@ -39,8 +39,10 @@ A simple and responsive web calculator built using HTML, CSS, and JavaScript. It
 
 1. Clone the repository
 >git clone https://github.com/uttaran-1907/AK_INFRATECH_PROJECT1.git cd AK_INFRATECH_PROJECT1
-3. Open *index.html* in your browser. No server setup is needed.
-4. [click here](https://uttaran-1907.github.io/AK_INFRATECH_PROJECT1/) to open the calculator directly.
+
+2. Open *index.html* in your browser. No server setup is needed.
+  
+3. [click here](https://uttaran-1907.github.io/AK_INFRATECH_PROJECT1/) to open the calculator directly.
 
 ## 🚀 Hosting
 **Hosted using :**
