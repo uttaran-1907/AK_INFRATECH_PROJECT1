@@ -44,8 +44,7 @@ A simple and responsive web calculator built using HTML, CSS, and JavaScript. It
 ## 🛠 *Setup Instructions*
 
 1. Clone the repository
->git clone https://github.com/uttaran-1907/AK_INFRATECH_PROJECT1.git cd
-<br>AK_INFRATECH_PROJECT1
+   >git clone https://github.com/uttaran-1907/AK_INFRATECH_PROJECT1.git<br>cd AK_INFRATECH_PROJECT1<br>
 
 2. Open *index.html* in your browser. No server setup is needed.
   
@@ -53,14 +52,14 @@ A simple and responsive web calculator built using HTML, CSS, and JavaScript. It
 
 ## 🚀 *Hosting*
 **Hosted using :**
-- [Github Pages](https://uttaran-1907.github.io/AK_INFRATECH_PROJECT1/)
+- [GitHub Pages](https://uttaran-1907.github.io/AK_INFRATECH_PROJECT1/)
   
 - [Vercel](https://web-calculator-orcin.vercel.app/)
 
 ## ⚠ *Notes*
 
 - Works across all modern browsers: *Chrome*, *Edge*, *Firefox*, *Safari*, *Brave,* and more.
-- Uses eval() for expression evaluation – avoid entering untrusted inputs.
+- Uses *eval()* for expression evaluation – avoid entering untrusted inputs.
   
 ## 📄 *License*
 
