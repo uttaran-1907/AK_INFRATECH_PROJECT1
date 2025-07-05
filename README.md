@@ -6,7 +6,7 @@ A simple and responsive web calculator built using HTML, CSS, and JavaScript. It
 
 ## 🔗 *Live Demo*
 
-[click here to try the calculator](https://uttaran-1907.github.io/AK_INFRATECH_PROJECT1/)
+[click here to try the calculator](https://web-calculator-orcin.vercel.app/)
 
 ## 📸 *Screenshot*
 
@@ -48,7 +48,7 @@ A simple and responsive web calculator built using HTML, CSS, and JavaScript. It
 
 2. Open *index.html* in your browser. No server setup is needed.
   
-3. [click here](https://uttaran-1907.github.io/AK_INFRATECH_PROJECT1/) to open the calculator directly.
+3. [click here](https://web-calculator-orcin.vercel.app/) to open the calculator directly.
 
 ## 🚀 *Hosting*
 **Hosted using :**
