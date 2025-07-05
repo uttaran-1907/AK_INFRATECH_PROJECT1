@@ -1,28 +1,54 @@
 # AK_INFRATECH_PROJECT1
 
-**🔢 Web Calculator**
-> **A simple and responsive web calculator built using HTML, CSS, and JavaScript. It performs basic arithmetic operations and mimics the functionality of a typical mobile or desktop calculator.**
+# 🔢 Web Calculator
 
- *🚀 Live Demo*
+A simple and responsive web calculator built using HTML, CSS, and JavaScript. It performs basic arithmetic operations and mimics the functionality of a typical mobile or desktop calculator.
+
+## *🚀 Live Demo*
 
 [click here to try the calculator](https://uttaran-1907.github.io/AK_INFRATECH_PROJECT1/)
 
-___
+## ✨*Features*
 
-📸 *Screenshot*
+- ✍ *Manual Input Buttons* for **numbers** and **operations**
+- 🧮 *Supports basic operations*: **+, -, ×, ÷** etc
+- 🧹 *Clear Display* (C) and *Backspace* (⌫)
+- 🌐 *Responsive design* - works on **mobile** and **desktop**
+- 💎 Stylish and user-friendly interface
+- 🧠 *Expression Evaluation* using JavaScript eval()
+- 🪄 Interactive UI with hover and press effects
 
-[calculator](calculator.png)
+## 📁 Project Structure
+  **web-calculator**
+<br>├── index.html # Calculator UI
+<br>├── style.css # Styles for layout and buttons
+<br>├── script.js # JavaScript logic for the calculator
+<br>├── images/calculator.png # UI preview
+<br>└── README.md # Project documentation
+## 🖥 UI Overview
 
-____
+- display: Used for input and output.
+- buttons: Grid of calculator buttons.
+## 📦 Tech Stack
 
-✨ *Features*
+- Html5
+- CSS3
+- JavaScript (ES6+)
 
-Basic arithmetic operations: addition, subtraction, multiplication, division etc
+## 🛠 Setup Instructions
 
-Clear and delete functions
+1. Clone the repository.
+>git clone https://github.com/dipesh-2874/AK_INFRATECH_PROJECT1.git cd AK_INFRATECH_PROJECT1
+3. Open *index.html* in your browser. No server setup is needed.
+4. [click here](https://github.com/uttaran-1907/AK_INFRATECH_PROJECT1.git) to open the calculator directly.
 
-Responsive design – works on mobile and desktop
+## ⚠ Notes
 
-Stylish and user-friendly interface
+- Works best in *Chrome* or *Edge* (due to Web Speech API support).
+- Uses eval() for expression evaluation – avoid entering untrusted inputs.
 
-Expression evaluation using eval()
+## 📄 License
+
+This project is open source and free to use.
+
+---
